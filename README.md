@@ -16,3 +16,7 @@ Graph-based Biomedical Text Summarizer
      - RSNKING_ALGORITHM specifies the graph ranking algorithm and takes a value from (pr, hits, ppf)
    
 8. After finishing the summarization process, the summary can be found in the OUTPUT directory already available with the summarizer.
+
+<hr>
+<b>Note:</b>
+A newer version of the summarizer that works with Word2vec and GloVe embeddings will be uploaded by the end of September 2019.
