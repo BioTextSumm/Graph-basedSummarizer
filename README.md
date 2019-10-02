@@ -19,4 +19,4 @@ Graph-based Biomedical Text Summarizer
 
 <hr>
 <b>Note:</b>
-A newer version of the summarizer that works with Word2vec and GloVe embeddings will be uploaded by the end of September 2019.
+A newer version of the summarizer that works with Word2vec and GloVe embeddings will be uploaded by the end of October 2019.
